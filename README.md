@@ -4,7 +4,7 @@
 You can reach me via email: kozin092@yandex.ru
 I also have social networks:
 
-[Instagram](https://www.instagram.com/askozin/)
-[Facebook](https://www.facebook.com/kozinaleksei)
-[Telegram](https://t.me/askozin/)
-[LinkedIn](https://www.linkedin.com/in/alekseykozin/)
+- [Instagram](https://www.instagram.com/askozin/)
+- [Facebook](https://www.facebook.com/kozinaleksei)
+- [Telegram](https://t.me/askozin/)
+- [LinkedIn](https://www.linkedin.com/in/alekseykozin/)
